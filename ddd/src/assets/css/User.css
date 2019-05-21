@@ -1,0 +1,23 @@
+
+
+#content{max-width:6.4rem; margin:0 auto;}
+#content #header{width:6.4rem;height:3rem;border-bottom: 1px solid #333; padding-top:1rem;}
+#header h2{width:1.02rem;height:1.02rem; border-radius:50%;margin-left: 0.3rem;float: left;}
+#header h2 img{width:100%; border-radius:50%;}
+#header .user-box{float:left; font-size:.5rem; color:#000; margin:0.2rem 0 0 1rem;}
+
+#header b{width:0.21rem;height:0.24rem; background:url(../img/next_img.png) no-repeat 0 0; background-size:100%; float:right;margin-left:1.6rem;margin-top:0.4rem;}
+#header ul{ margin-top:1.4rem;}
+#header ul li{width:50%;height:0.7rem; float:left; color:#000;}
+#header ul li span{height:0.37rem; line-height:0.37rem; text-align:center; display:block; font-size:0.25rem;}
+#header ul li p{ text-align:center; font-size:0.3rem;height:0.32rem; line-height:0.32rem; }
+
+
+#content .docList{width:6.4rem; margin:0 auto; margin-top:0.32rem;}
+.docList ul li{ background:#fff;height:0.79rem; }
+.docList ul li span{ float:right;margin-right:0.14rem; margin-top:0.26rem;}
+.docList ul li b{width:0.21rem;height:0.24rem; background:url(../img/next_img.png) no-repeat 0 0; background-size:100%; float:right;margin-right:0.34rem; margin-top:0.28rem;}
+.docList ul p{ float:left; font-size:0.25rem;margin-left:0.29rem; margin-top:0.25rem;}
+.tc{font:.5rem/1rem "";text-align:center;height: 1rem;width:80%;background: red;border-radius: .1rem;margin: 1.5rem auto;}
+.tc a{color:#000;}
+
